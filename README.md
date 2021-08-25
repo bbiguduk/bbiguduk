@@ -1,11 +1,11 @@
 [![Boram's github stats](https://github-readme-stats.vercel.app/api?username=bbiguduk&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
-  ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white)
-  ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white)
-  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=Swift&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=Swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
 </div>
 
 
