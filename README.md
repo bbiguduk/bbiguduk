@@ -1,6 +1,6 @@
 # 💻📱⌚️
 
-[![Boram's github stats](https://github-readme-stats.vercel.app/api?username=bbiguduk&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Boram's github stats](https://github-readme-stats-bbiguduk.vercel.app/api?username=bbiguduk&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white)
